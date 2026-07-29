@@ -11,8 +11,8 @@ subtitle: "SOP-007: Study Closeout and Archiving Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change | Re-attest |
-|----------|----------------|--------|-----------------------|-----------|
+| Revision | Effective date | Author | Description of change | Retraining Required |
+|----------|----------------|--------|-----------------------|---------------------|
 |  |  |  | Initial release |  |
 
 **Approvals**

@@ -11,8 +11,8 @@ subtitle: "SOP-003: Risk Management and Quality Risk Management Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change | Re-attest |
-|----------|----------------|--------|-----------------------|-----------|
+| Revision | Effective date | Author | Description of change | Retraining Required |
+|----------|----------------|--------|-----------------------|---------------------|
 |  |  |  | Initial release |  |
 
 **Approvals**

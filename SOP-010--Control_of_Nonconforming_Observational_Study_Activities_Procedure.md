@@ -11,8 +11,8 @@ subtitle: "SOP-010: Control of Nonconforming Observational Study Activities Proc
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change | Re-attest |
-|----------|----------------|--------|-----------------------|-----------|
+| Revision | Effective date | Author | Description of change | Retraining Required |
+|----------|----------------|--------|-----------------------|---------------------|
 |  |  |  | Initial release |  |
 
 **Approvals**

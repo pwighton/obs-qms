@@ -11,8 +11,8 @@ subtitle: "QM-001"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change | Re-attest |
-|----------|----------------|--------|-----------------------|-----------|
+| Revision | Effective date | Author | Description of change | Retraining Required |
+|----------|----------------|--------|-----------------------|---------------------|
 |  |  |  | Initial release |  |
 
 **Approvals**

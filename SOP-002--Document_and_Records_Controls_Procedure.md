@@ -11,8 +11,8 @@ subtitle: "SOP-002: Document and Records Controls Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change | Re-attest |
-|----------|----------------|--------|-----------------------|-----------|
+| Revision | Effective date | Author | Description of change | Retraining Required |
+|----------|----------------|--------|-----------------------|---------------------|
 |  |  |  | Initial release |  |
 
 **Approvals**
@@ -310,6 +310,16 @@ format and **SHALL** include the following elements:
   approver)
 - Effective date
 
+The Record of Revisions carries one entry per released
+revision, and each entry **SHALL** record:
+
+- Revision
+- Effective date
+- Author
+- Description of change
+- Retraining Required (the determination made per Section
+  4.5)
+
 The QA representative **SHALL** maintain a document template
 that includes these required elements. All persons creating
 documents **SHOULD** use this template.
@@ -382,10 +392,11 @@ original approver or by another person that has access to
 pertinent background information upon which to base their
 decisions.
 
-The approver **SHALL** determine whether the revision is
-substantive or editorial for re-attestation purposes per
-SOP-016 Section 4.6, and **SHALL** record that determination
-in the Record of Revisions.
+The approver **SHALL** determine whether the revision
+requires retraining of the personnel to whom the document is
+assigned, applying the criteria of SOP-016 Section 4.6, and
+**SHALL** record that determination as "Yes" or "No" in the
+Retraining Required column of the Record of Revisions.
 
 When all comments and issues are resolved, the document
 **SHALL** be submitted for the required approvals per

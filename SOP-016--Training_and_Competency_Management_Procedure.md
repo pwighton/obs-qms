@@ -11,8 +11,8 @@ subtitle: "SOP-016: Training and Competency Management Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change | Re-attest |
-|----------|----------------|--------|-----------------------|-----------|
+| Revision | Effective date | Author | Description of change | Retraining Required |
+|----------|----------------|--------|-----------------------|---------------------|
 |  |  |  | Initial release |  |
 
 **Approvals**
@@ -228,16 +228,18 @@ Attestations are recorded in the individual's Training Record. Signatures
 
 When a controlled document is revised and released per SOP-002 Section 4.5,
 the approver **SHALL** determine whether the revision is substantive for the
-purposes of this section, and **SHALL** record that determination in the
-Record of Revisions of the revised document.
+purposes of this section. A substantive revision requires retraining; an
+editorial revision does not. The determination is recorded as the Retraining
+Required entry in the Record of Revisions of the revised document, per
+SOP-002 Section 4.5.
 
 A revision is substantive when it changes what personnel do, who performs an
 activity, or what is recorded. A revision that corrects typography,
 formatting, or cross-references without changing a requirement is editorial.
 
-Personnel to whom a substantively revised document is assigned **SHALL**
-complete a fresh attestation before they next perform an activity governed
-by that document. An editorial revision does not require re-attestation.
+Where retraining is required, personnel to whom the revised document is
+assigned **SHALL** complete a fresh attestation before they next perform an
+activity governed by that document.
 
 An individual assigned to a new role **SHALL** attest to the documents that
 role carries and to which they have not previously attested at the current
