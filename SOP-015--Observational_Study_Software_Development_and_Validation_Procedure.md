@@ -11,9 +11,9 @@ subtitle: "SOP-015: Observational Study Software Development and Validation Proc
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -27,7 +27,8 @@ subtitle: "SOP-015: Observational Study Software Development and Validation Proc
 
 This Standard Operating Procedure (SOP) establishes requirements for developing
 custom software used to collect, process, or analyze subject data in
-*observational studies* conducted by __NewInstitute__.
+*observational studies* conducted by __NewInstitute__. It implements QM-001
+Section 7.9.
 
 This procedure ensures that:
 
@@ -117,6 +118,9 @@ involved in:
 
 4. [SOP-006: Outsourced Activities
    Procedure](SOP-006--Outsourced_Activities_Procedure.md)
+
+5. [SOP-016: Training and Competency Management
+   Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -385,23 +389,15 @@ When software is retired from use:
 
 ## 5.0 TRAINING
 
-All personnel involved in software development activities **SHALL** be trained
-on this procedure and maintain documented evidence of training according to
-[QM-001 Section 6.1.1](QM-001--QualityManual.md#611-people).
+All personnel involved in software development activities **SHALL** be
+trained on this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Training **SHALL** include:
+Personnel **SHALL** additionally be trained on the applicable regulatory
+requirements, including ALCOA+ principles and 21 CFR Part 11.
 
-- Software requirements specification
-- Development practices and coding standards
-- Version control usage
-- Testing requirements
-- Release and deployment procedures
-- Defect management
-
-Personnel **SHALL** also be trained on applicable regulatory requirements,
-including ALCOA+ principles and 21 CFR Part 11.
-
-Training records **SHALL** be maintained per SOP-002.
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 6.0 RECORDS
 

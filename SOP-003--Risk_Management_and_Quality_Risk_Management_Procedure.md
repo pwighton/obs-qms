@@ -11,9 +11,9 @@ subtitle: "SOP-003: Risk Management and Quality Risk Management Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -145,6 +145,8 @@ involved in:
 10. [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
 
 11. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+
+12. [SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -2039,13 +2041,14 @@ Section 6.1.2. Minutes are maintained in the TMF per SOP-002.
 ## 9.0 TRAINING
 
 Personnel holding responsibilities under Section 4.3 **SHALL** be trained
-on this procedure commensurate with those responsibilities before
-exercising them, and maintain documented evidence of training per QM-001
-Section 6.1.1.
+on this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Retraining **SHALL** be conducted when significant changes are made to
-this procedure. Additional training **MAY** be recommended through the
-lessons-learned process per Section 7.2.2.
+Additional training **MAY** be recommended through the lessons-learned
+process per Section 7.2.2.
+
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 10.0 RECORDS
 

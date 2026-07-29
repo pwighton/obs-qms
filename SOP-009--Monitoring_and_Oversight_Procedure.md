@@ -11,9 +11,9 @@ subtitle: "SOP-009: Monitoring and Oversight Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -119,6 +119,9 @@ involved in monitoring and oversight activities.
 
 8. [SOP-011: Corrective and Preventive Action
    Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
+
+9. [SOP-016: Training and Competency Management
+   Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -231,6 +234,22 @@ a __NewInstitute__ employee or an external party engaged under SOP-006, and
 **SHALL** sign the monitoring reports. The Monitoring Plan and its amendments
 are approved by the Study Director (or delegate) and the QA Representative
 (Sections 4.2.3 and 4.6.3).
+
+**Monitor qualification.** Before performing monitoring functions, the Monitor
+**SHALL** hold, recorded in their Qualification Record per SOP-016:
+
+- Training in the principles of GCP, human subjects protection, and the
+  regulatory requirements applicable to monitoring; and
+- Training and experience appropriate to the complexity of the study and of
+  the monitoring activities assigned, where the Monitor conducts on-site
+  monitoring or source data verification.
+
+Before monitoring a given study, the Monitor **SHALL** additionally be trained
+on that study's protocol, its Monitoring Plan, its critical data and
+processes, and its data collection systems and monitoring tools, and **SHALL**
+be retrained when a protocol or Monitoring Plan amendment changes monitoring
+requirements. Study-specific monitoring training records **SHALL** be
+maintained in the TMF.
 
 ### 4.2 Monitoring Plan Development
 
@@ -623,36 +642,15 @@ retained per SOP-002 Section 5.4.
 
 ## 5.0 TRAINING
 
-Personnel involved in monitoring activities **SHALL** be trained before
-performing monitoring functions. Training **SHALL** be commensurate with the
-individual's role and responsibilities.
+Personnel involved in monitoring activities **SHALL** be trained on this
+procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Training **SHALL** include:
+The qualification and study-specific training requirements that apply to the
+Monitor are stated in Section 4.1.
 
-- **General training**: Principles of GCP, human subjects protection, and
-  regulatory requirements applicable to monitoring
-
-- **Procedure training**: This SOP and related procedures (SOP-003, SOP-010,
-  SOP-011)
-
-- **Study-specific training**: Protocol requirements, Monitoring Plan,
-  study-specific procedures, critical data and processes, data collection
-  systems, and monitoring tools for each study
-
-Personnel conducting on-site monitoring or source data verification **SHALL**
-have training and experience appropriate to the complexity of the study and
-monitoring activities.
-
-Training **SHALL** be documented and records maintained per SOP-002. Training
-records for study-specific monitoring activities **SHALL** be maintained in the
-TMF.
-
-Retraining **SHALL** be conducted when:
-
-- Significant changes are made to this procedure
-- Protocol amendments affect monitoring requirements
-- Monitoring Plan amendments change monitoring activities
-- Performance issues indicate a need for additional training
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 6.0 RECORDS
 

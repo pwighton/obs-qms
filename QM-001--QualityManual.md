@@ -11,9 +11,9 @@ subtitle: "QM-001"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -148,6 +148,8 @@ this QMS
 14. [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
 
 15. [SOP-015: Observational Study Software Development and Validation Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
+
+16. [SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -427,6 +429,9 @@ following minimum responsibilities:
 
 -   Maintains oversight of investigator qualifications and training compliance
 
+-   Maintains the institute training file and the Training Assignment Matrix
+    per SOP-016
+
 #### 5.3.3 Management Reviews
 
 __NewInstitute__ **SHALL** conduct an annual Management Review. This review
@@ -530,7 +535,11 @@ make certain that all employees are made aware of the:
 -   Financial disclosure obligations for investigators
 
 All training requirements **SHOULD** be documented in each Study Protocol.
-All training **SHALL** be documented in training records.
+
+The determination that an individual is competent for the role they hold, the
+assignment of the QMS documents that role is required to read, and the
+records evidencing both **SHALL** be established and maintained in accordance
+with the Training and Competency Management Procedure, SOP-016.
 
 #### 6.1.2 Systems, Equipment and Infrastructure
 
@@ -867,8 +876,9 @@ studies subject to the constraints in Section A.3.
 
 - **Management Representative.** Coordinates the QMS as
   defined in Section 5.3.2. Owns the Quality Manual, the
-  internal audit programme, and the coordination of responses
-  to data-recipient inquiries.
+  internal audit programme, the institute training file
+  (SOP-016), and the coordination of responses to
+  data-recipient inquiries.
 
 - **QA Representative.** Provides independent quality
   assurance of *observational study* conduct and QMS
@@ -998,6 +1008,7 @@ documentation as part of protocol development per SOP-001.
 - Training and Competency Management
   - QM-001 Quality Manual
     - [Section 6.1.1](QM-001--QualityManual.md#611-people)
+  - [SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
   - ISO-9001:2015
     - Section 7.2 (Competence)
   - ICH E6(R2)

@@ -11,9 +11,9 @@ subtitle: "SOP-007: Study Closeout and Archiving Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -96,6 +96,7 @@ involved in:
 4. [SOP-003: Risk Management and Quality Risk Management Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
 5. [SOP-004: Computer System Validation, Data Integrity and Data Management Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Management_Procedure.md)
 6. [SOP-009: Monitoring and Oversight Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
+7. [SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -404,8 +405,11 @@ SOP-001 Section 7.2 (Essential Documents and Records).
 ## 7.0 TRAINING
 
 All personnel involved in study closeout and archiving activities **SHALL** be
-trained on this procedure and maintain documented evidence of training per
-QM-001 Section 6.1.1.
+trained on this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
+
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 8.0 RECORDS
 

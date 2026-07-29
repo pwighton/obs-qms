@@ -11,9 +11,9 @@ subtitle: "SOP-004: Computer System Validation, Data Integrity and Data Manageme
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -156,6 +156,9 @@ vendors involved in:
 8.  [SOP-015: Observational Study Software Development
     and Validation
     Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
+
+9.  [SOP-016: Training and Competency Management
+    Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -1413,14 +1416,15 @@ SOP-002 Section 5.4.
 ## 6.0 TRAINING
 
 Personnel holding responsibilities under Section 4.2 **SHALL** be trained
-on this procedure commensurate with those responsibilities before
-exercising them, and maintain documented evidence of training per QM-001
-Section 6.1.1.
+on this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Users of validated systems **SHALL** be trained on the system functions
-relevant to their role before access is granted (Section 4.7.4).
-Retraining **SHALL** be conducted when significant changes are made to
-this procedure or to the systems on which personnel were trained.
+Users of validated systems **SHALL** additionally be trained on the system
+functions relevant to their role before access is granted (Section 4.7.4),
+and **SHALL** be retrained when significant changes are made to the systems
+on which they were trained. System training is recorded with the training
+records maintained per SOP-016 Section 6.0.
 
 ## 7.0 RECORDS
 
@@ -1446,7 +1450,7 @@ Records **MAY** include but are not limited to:
 - Data management records, including the Data Management Plan, data
   transfer records, processing and provenance records, query and data
   cleaning records, and database lock and unlock records
-- Training records per Section 6.0
+- Training records per SOP-016
 
 ## APPENDIX A: GAMP CATEGORY DECISION TREE
 

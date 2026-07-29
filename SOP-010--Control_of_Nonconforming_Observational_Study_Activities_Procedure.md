@@ -11,9 +11,9 @@ subtitle: "SOP-010: Control of Nonconforming Observational Study Activities Proc
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -94,6 +94,7 @@ disposition, and closure are defined in Section 4.3.
 10. [SOP-012: Internal and External Audit Procedure](SOP-012--Internal_and_External_Audit_Procedure.md)
 11. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 12. [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
+13. [SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -553,13 +554,11 @@ SOP-003 Section 6.2.1).
 ## 8.0 TRAINING
 
 All __NewInstitute__ personnel involved in the conduct of *observational
-studies* **SHALL** be trained on this procedure, at minimum on the
-recognition and reporting of nonconformances per Section 5.1, and maintain
-documented evidence of training per QM-001 Section 6.1.1.
+studies* **SHALL** be trained on this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Personnel holding responsibilities under Section 4.3 **SHALL** be trained
-commensurate with those responsibilities before exercising them. Retraining
-**SHALL** be conducted when significant changes are made to this procedure.
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 9.0 RECORDS
 
@@ -577,4 +576,4 @@ Records **MAY** include but are not limited to:
 - Reports to the IRB/IEC, regulatory authorities, and data recipients
 - CAPA referrals and their references
 - Trend summaries prepared for risk reviews and Management Reviews
-- Training records per Section 8.0
+- Training records per SOP-016

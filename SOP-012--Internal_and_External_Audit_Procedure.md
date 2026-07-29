@@ -11,9 +11,9 @@ subtitle: "SOP-012: Internal and External Audit Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -29,8 +29,9 @@ This Standard Operating Procedure (SOP) establishes requirements for planning,
 conducting, and reporting internal audits of quality management system
 processes and *observational studies* conducted by __NewInstitute__.
 
-This procedure is based on the principles of ISO 19011:2018 and satisfies the
-audit requirements of ICH E6(R2) Section 5.19.
+This procedure implements QM-001 Section 8.4. It is based on the principles of
+ISO 19011:2018 and satisfies the audit requirements of ICH E6(R2)
+Section 5.19.
 
 This procedure ensures that:
 
@@ -89,6 +90,7 @@ This procedure applies to all __NewInstitute__ personnel involved in:
 4. [SOP-006: Outsourced Activities Procedure](SOP-006--Outsourced_Activities_Procedure.md)
 5. [SOP-010: Control of Nonconforming Observational Study Activities Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
 6. [SOP-011: Corrective and Preventive Action Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
+7. [SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -295,7 +297,8 @@ clinical research and observational study methodology.
 
 Auditor competence **SHALL** be evaluated and documented before assignment to
 audits. Competence may be demonstrated through education, training, and
-experience.
+experience, and **SHALL** be recorded in the auditor's Qualification Record
+per SOP-016.
 
 ### 7.2 Auditor Independence
 
@@ -312,21 +315,14 @@ audit assignment. If independence cannot be assured, an alternative auditor
 ## 8.0 TRAINING
 
 All personnel involved in audit activities **SHALL** be trained on this
-procedure and maintain documented evidence of training according to
-[QM-001 Section 6.1.1](QM-001--QualityManual.md#611-people).
+procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Training **SHALL** include:
+The competence requirements that apply to auditors are stated in
+Section 7.1.
 
-- Audit principles per ISO 19011:2018
-- Audit planning, execution, and reporting
-- Auditor independence requirements
-- Audit finding classification and documentation
-- Corrective action follow-up and verification
-
-Auditors **SHALL** complete additional training or demonstrate competence in
-relevant subject matter areas before conducting audits in those areas.
-
-Training records **SHALL** be maintained per SOP-002.
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 9.0 RECORDS
 

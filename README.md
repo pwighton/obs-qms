@@ -5,7 +5,7 @@ Boilerplate Quality Management System for an institution conducting
 into future regulatory submissions by other entities (e.g., as real-world
 evidence, natural history data, or control-arm comparators).
 
-The QMS consists of a Quality Manual and fifteen SOPs implementing applicable
+The QMS consists of a Quality Manual and sixteen SOPs implementing applicable
 parts of:
 - [ISO-9001:2015](https://www.iso.org/standard/62085.html)
 - [ICH E6(R2)](https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf)
@@ -42,6 +42,11 @@ and adapt the documents to your structure and risk posture.
   annual Management Review (QM-001 Section 5.3.3); no SOP self-reviews.
 - **Templates summarize; body text governs.** Tools and appendices cite
   the canonical body sections and defer to them on any difference.
+- **Read-and-attest training.** Competence rests on credentials on file,
+  not on testing; training is evidenced by the individual attesting that
+  they read the assigned document, understood it, and had the chance to
+  discuss it with their supervisor (SOP-016). Re-attestation is triggered
+  by substantive revision, not by a calendar.
 
 ## Style conventions
 

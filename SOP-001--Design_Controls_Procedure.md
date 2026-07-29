@@ -11,9 +11,9 @@ subtitle: "SOP-001: Design Controls Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -155,6 +155,9 @@ and subcontractors involved in study design activities.
 12. [SOP-015: Observational Study Software Development
     and Validation
     Procedure](SOP-015--Observational_Study_Software_Development_and_Validation_Procedure.md)
+
+13. [SOP-016: Training and Competency Management
+    Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -2032,18 +2035,11 @@ procedures, and retrieval controls are defined in SOP-007.
 ## 8.0 TRAINING
 
 All personnel involved in design activities **SHALL** be trained on this
-procedure and maintain documented evidence of training according to
-[QM-001 Section 6.1.1](QM-001--QualityManual.md#611-people).
+procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Training **SHALL** be completed before personnel participate in design
-activities and documented training records **SHALL** be maintained per
-SOP-002.
-
-Retraining **SHALL** be conducted when:
-
-- This SOP is revised
-- Personnel demonstrate deficiencies in applying design control procedures
-- Significant findings from audits or inspections indicate training gaps
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 9.0 RECORDS
 
@@ -2061,7 +2057,7 @@ Records **MAY** include but are not limited to:
 - Design verification and validation records
 - The signed protocol and any amendments
 - Final Design Approval documentation
-- Training records per Section 8.0
+- Training records per SOP-016
 
 ## APPENDIX A: MAPPING TO ICH E6(R2) REQUIREMENTS
 

@@ -11,9 +11,9 @@ subtitle: "SOP-006: Outsourced Activities Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -27,7 +27,8 @@ subtitle: "SOP-006: Outsourced Activities Procedure"
 
 This Standard Operating Procedure (SOP) establishes requirements for selecting,
 qualifying, contracting, and overseeing external organizations that perform
-*observational study* activities on behalf of __NewInstitute__.
+*observational study* activities on behalf of __NewInstitute__. It implements
+QM-001 Section 7.6.
 
 This procedure ensures that:
 
@@ -129,6 +130,9 @@ involved in:
 
 9. [SOP-012: Internal and External Audit
    Procedure](SOP-012--Internal_and_External_Audit_Procedure.md)
+
+10. [SOP-016: Training and Competency Management
+    Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -462,19 +466,12 @@ Termination provisions in the agreement **SHALL** be followed.
 
 ## 5.0 TRAINING
 
-All personnel involved in external organization management **SHALL** be trained
-on this procedure and maintain documented evidence of training according to
-[QM-001 Section 6.1.1](QM-001--QualityManual.md#611-people).
+All personnel involved in external organization management **SHALL** be
+trained on this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Training **SHALL** include:
-
-- Selection and qualification requirements
-- Contracting and agreement requirements
-- Oversight and performance monitoring
-- Sub-contractor management
-- Issue identification and escalation
-
-Training records **SHALL** be maintained per SOP-002.
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 6.0 RECORDS
 

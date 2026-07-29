@@ -11,9 +11,9 @@ subtitle: "SOP-005: Study Design Review Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -85,6 +85,8 @@ this procedure, while the change process itself is managed under
    Procedure](SOP-003--Risk_Management_and_Quality_Risk_Management_Procedure.md)
 
 5. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+
+6. [SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -959,18 +961,12 @@ apply to all design reviews.
 
 ## 8.0 TRAINING
 
-All personnel involved in design review activities **SHALL** be trained on this
-procedure and maintain documented evidence of training according to [QM-001
-Section 6.1.1](QM-001--QualityManual.md#611-people).
+All personnel involved in design review activities **SHALL** be trained on
+this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Training **SHALL** include:
-
-- Review gate requirements and timing
-- Review criteria for applicable perspectives
-- Documentation requirements
-- Decision-making process and escalation
-
-Training records **SHALL** be maintained per SOP-002.
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 9.0 RECORDS
 

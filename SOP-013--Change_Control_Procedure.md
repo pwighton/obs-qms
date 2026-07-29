@@ -11,9 +11,9 @@ subtitle: "SOP-013: Change Control Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -27,7 +27,8 @@ subtitle: "SOP-013: Change Control Procedure"
 
 This Standard Operating Procedure (SOP) establishes requirements for managing
 protocol amendments and consequential document changes for *observational
-studies* conducted by __NewInstitute__ from Final Design Approval onward.
+studies* conducted by __NewInstitute__ from Final Design Approval onward. It
+implements the protocol-amendment element of QM-001 Section 8.5.
 
 This procedure ensures that:
 
@@ -153,6 +154,9 @@ involved in:
 
 6. [SOP-011: Corrective and Preventive Action
    Procedure](SOP-011--Corrective_and_Preventive_Action_Procedure.md)
+
+7. [SOP-016: Training and Competency Management
+   Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -685,20 +689,12 @@ The amendment log **SHALL** be included in the TMF.
 
 ## 5.0 TRAINING
 
-All personnel involved in protocol amendment activities **SHALL** be trained on
-this procedure and maintain documented evidence of training according to
-[QM-001 Section 6.1.1](QM-001--QualityManual.md#611-people).
+All personnel involved in protocol amendment activities **SHALL** be trained
+on this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Training **SHALL** include:
-
-- Scope of this procedure (amendments vs design phase changes vs deviations)
-- Amendment classification (substantive vs minor)
-- IRB/IEC review requirements per 45 CFR 46
-- Implementation timing requirements
-- Re-consent requirements
-- Documentation and TMF requirements
-
-Training records **SHALL** be maintained per SOP-002.
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 6.0 RECORDS
 

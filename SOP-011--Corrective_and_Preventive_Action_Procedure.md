@@ -11,9 +11,9 @@ subtitle: "SOP-011: Corrective and Preventive Action Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -94,6 +94,7 @@ QMS. The roles responsible for CAPA management are defined in Section 4.2.
 7. [SOP-012: Internal and External Audit Procedure](SOP-012--Internal_and_External_Audit_Procedure.md)
 8. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
 9. [SOP-014: Regulatory Compliance Management Procedure](SOP-014--Regulatory_Compliance_Management_Procedure.md)
+10. [SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -415,9 +416,8 @@ CAPA record **SHALL** cross-reference the resulting change records:
 - **Controlled documents**: Changes to SOPs, forms, templates, and other
   controlled documents follow SOP-002, coordinated by the Management
   Representative.
-- **Training**: Training and retraining actions are documented per QM-001
-  Section 6.1.1 and accompany the underlying procedure or system change per
-  Section 6.2.1.
+- **Training**: Training and retraining actions are documented per SOP-016
+  and accompany the underlying procedure or system change per Section 6.2.1.
 
 An action that depends on such a change is not complete (Section 7.1) until
 the change is approved and in effect under its controlling process.
@@ -578,12 +578,11 @@ outcome.
 ## 10.0 TRAINING
 
 All __NewInstitute__ personnel with responsibilities under Section 4.2,
-including each assigned CAPA Owner, **SHALL** be trained on this procedure
-before exercising those responsibilities and **SHALL** maintain documented
-evidence of training per QM-001 Section 6.1.1.
+including each assigned CAPA Owner, **SHALL** be trained on this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Retraining **SHALL** be conducted when significant changes are made to this
-procedure.
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 11.0 RECORDS
 
@@ -605,4 +604,4 @@ Records **MAY** include but are not limited to:
   controlled-document changes per SOP-002)
 - CAPA status and effectiveness summaries prepared for risk reviews and
   Management Reviews
-- Training records per Section 10.0
+- Training records per SOP-016

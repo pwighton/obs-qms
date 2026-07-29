@@ -11,9 +11,9 @@ subtitle: "SOP-008: Subject Safety and Adverse Event Management Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -29,7 +29,7 @@ This Standard Operating Procedure (SOP) establishes the systematic approach for
 monitoring subject safety and managing adverse events during *observational
 studies* conducted by __NewInstitute__. It ensures prompt identification,
 documentation, assessment, and reporting of safety information to protect
-subject welfare.
+subject welfare. It implements QM-001 Section 7.8.
 
 ## 2.0 SCOPE
 
@@ -148,6 +148,8 @@ involved in:
    Procedure](SOP-009--Monitoring_and_Oversight_Procedure.md)
 
 9. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+
+10. [SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -654,14 +656,11 @@ in the TMF.
 ## 5.0 TRAINING
 
 All __NewInstitute__ personnel involved in the conduct of *observational
-studies* **SHALL** be trained on this procedure, at minimum on the recognition
-and reporting of adverse events per Section 4.4, and maintain documented
-evidence of training per QM-001 Section 6.1.1.
+studies* **SHALL** be trained on this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Personnel holding responsibilities for safety assessment, causality
-determination, or safety reporting **SHALL** be trained commensurate with
-those responsibilities before exercising them. Retraining **SHALL** be
-conducted when significant changes are made to this procedure.
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 6.0 RECORDS
 
@@ -678,4 +677,4 @@ Records **MAY** include but are not limited to:
 - Safety communications to subjects, sites, and the IRB/IEC
 - Incidental findings records
 - Data Monitoring Committee charter and meeting minutes
-- Training records per Section 5.0
+- Training records per SOP-016

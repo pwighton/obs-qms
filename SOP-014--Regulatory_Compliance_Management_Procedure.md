@@ -11,9 +11,9 @@ subtitle: "SOP-014: Regulatory Compliance Management Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -127,6 +127,8 @@ involved in:
    Procedure](SOP-010--Control_of_Nonconforming_Observational_Study_Activities_Procedure.md)
 
 7. [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+
+8. [SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -356,18 +358,12 @@ If a regulatory deadline is missed:
 
 ## 5.0 TRAINING
 
-All personnel involved in regulatory compliance activities **SHALL** be trained
-on this procedure and maintain documented evidence of training according to
-[QM-001 Section 6.1.1](QM-001--QualityManual.md#611-people).
+All personnel involved in regulatory compliance activities **SHALL** be
+trained on this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Training **SHALL** include:
-
-- IRB/IEC continuing review requirements per 45 CFR 46
-- Financial disclosure requirements per 21 CFR Part 54
-- Regulatory document management and TMF requirements
-- Regulatory commitment tracking
-
-Training records **SHALL** be maintained per SOP-002.
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 6.0 RECORDS
 

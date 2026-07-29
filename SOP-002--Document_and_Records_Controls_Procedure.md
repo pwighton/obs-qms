@@ -11,9 +11,9 @@ subtitle: "SOP-002: Document and Records Controls Procedure"
 
 **Record of Revisions**
 
-| Revision | Effective date | Author | Description of change |
-|----------|----------------|--------|-----------------------|
-|  |  |  | Initial release |
+| Revision | Effective date | Author | Description of change | Re-attest |
+|----------|----------------|--------|-----------------------|-----------|
+|  |  |  | Initial release |  |
 
 **Approvals**
 
@@ -112,6 +112,8 @@ Procedure](SOP-004--Computer_System_Validation_Data_Integrity_and_Data_Managemen
 5.  [SOP-007: Study Closeout and Archiving Procedure](SOP-007--Study_Closeout_and_Archiving_Procedure.md)
 
 6.  [SOP-013: Change Control Procedure](SOP-013--Change_Control_Procedure.md)
+
+7.  [SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
 
 ### 3.3 Terms
 
@@ -379,6 +381,11 @@ All changes **SHALL** be reviewed and approved either by the
 original approver or by another person that has access to
 pertinent background information upon which to base their
 decisions.
+
+The approver **SHALL** determine whether the revision is
+substantive or editorial for re-attestation purposes per
+SOP-016 Section 4.6, and **SHALL** record that determination
+in the Record of Revisions.
 
 When all comments and issues are resolved, the document
 **SHALL** be submitted for the required approvals per
@@ -774,14 +781,11 @@ review minutes) **SHALL** be retained for a minimum of five
 ## 6.0 TRAINING
 
 All __NewInstitute__ personnel who create, modify, approve, or maintain
-controlled documents or records **SHALL** be trained on this procedure,
-at minimum on the good record keeping practices of Section 5.3, and
-maintain documented evidence of training per QM-001 Section 6.1.1.
+controlled documents or records **SHALL** be trained on this procedure per
+[SOP-016: Training and Competency Management Procedure](SOP-016--Training_and_Competency_Management_Procedure.md)
+before performing activities governed by it.
 
-Personnel holding responsibilities under Section 4.1 **SHALL** be trained
-commensurate with those responsibilities before exercising them.
-Retraining **SHALL** be conducted when significant changes are made to
-this procedure.
+Training records are maintained per SOP-016 Section 6.0.
 
 ## 7.0 RECORDS
 
@@ -796,5 +800,5 @@ Records **MAY** include but are not limited to:
 - Digitization verification records and certified copies
 - Retained obsolete documents
 - Closeout disposition decisions and their rationales
-- Training records per Section 6.0
+- Training records per SOP-016
 
