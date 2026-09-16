@@ -208,7 +208,8 @@ IRB/IEC, which typically includes:
 - Enrollment status (number of subjects enrolled, completed, withdrawn)
 - Summary of adverse events and unanticipated problems (per SOP-008)
 - Summary of protocol deviations (per SOP-010)
-- Summary of any complaints
+- Summary of any complaints about the research from subjects or their
+  representatives (per SOP-010 Section 5.1)
 - Any new information that may affect the risk-benefit assessment
 - Request for continued approval or study closure
 

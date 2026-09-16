@@ -440,7 +440,8 @@ Triggers for for-cause visits include:
 - Patterns suggesting potential data integrity issues
 - Significant or repeated protocol deviations
 - Safety concerns or unreported adverse events
-- Complaints or reports regarding site conduct
+- Complaints or reports regarding site conduct (logged per SOP-010
+  Section 5.1)
 - Significant enrollment or data quality anomalies
 
 For-cause visits **SHALL** be documented with clear description of the trigger,

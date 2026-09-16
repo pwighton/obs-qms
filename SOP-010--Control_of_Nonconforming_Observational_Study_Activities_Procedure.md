@@ -238,6 +238,7 @@ include:
 - Data integrity incidents (per SOP-004 Section 4.8.3)
 - Data management or medical review
 - Self-reporting by study personnel
+- Complaints about the research from subjects or their representatives
 - Notifications from outsourced service providers (per SOP-006 Section 4.6)
 - External notifications (IRB/IEC, regulatory authority, or data recipient)
 
