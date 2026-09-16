@@ -47,7 +47,7 @@ This procedure applies to internal audits of __NewInstitute__ quality
 management system processes and *observational studies*.
 
 Internal audits include audits of QMS processes (system audits) and audits of
-individual study conduct (study audits). The audit programme determines audit
+individual study conduct (study audits). The audit program determines audit
 frequency and priorities based on risk and management objectives.
 
 __NewInstitute__ is not currently subject to external regulatory inspections or
@@ -68,7 +68,7 @@ Audits of external organizations are coordinated with
 
 This procedure applies to all __NewInstitute__ personnel involved in:
 
-- Planning and managing audit programmes
+- Planning and managing audit programs
 - Conducting audits
 - Responding to audit findings (as auditees)
 - Quality assurance oversight
@@ -110,7 +110,7 @@ This procedure applies to all __NewInstitute__ personnel involved in:
 - **Audit Finding**: Results of the evaluation of collected audit evidence
   against audit criteria. [ISO 19011:2018]
 
-- **Audit Programme**: Arrangements for a set of one or more audits planned for
+- **Audit Program**: Arrangements for a set of one or more audits planned for
   a specific time frame and directed toward a specific purpose. [ISO 19011:2018]
 
 - **Auditee**: Organization or person being audited. [ISO 19011:2018]
@@ -143,13 +143,13 @@ principles of auditing per ISO 19011:2018:
 | Confidentiality | Auditors protect the security of information obtained during audits |
 | Independence | Auditors are independent from the activity being audited and free from bias and conflict of interest |
 | Evidence-based approach | Audit conclusions are based on verifiable objective evidence |
-| Risk-based approach | Audit planning and conduct consider risks and opportunities to ensure audits focus on matters significant to the auditee and audit programme objectives |
+| Risk-based approach | Audit planning and conduct consider risks and opportunities to ensure audits focus on matters significant to the auditee and audit program objectives |
 
-## 5.0 AUDIT PROGRAMME MANAGEMENT
+## 5.0 AUDIT PROGRAM MANAGEMENT
 
-### 5.1 Audit Programme Objectives
+### 5.1 Audit Program Objectives
 
-An audit programme **SHALL** be established to:
+An audit program **SHALL** be established to:
 
 - Verify compliance with protocols, SOPs, GCP, and applicable regulatory
   requirements
@@ -157,19 +157,19 @@ An audit programme **SHALL** be established to:
 - Identify opportunities for improvement
 - Provide input for management review
 
-Audit programme objectives **SHALL** be consistent with __NewInstitute__
+Audit program objectives **SHALL** be consistent with __NewInstitute__
 quality policy and strategic direction.
 
-### 5.2 Audit Programme Planning
+### 5.2 Audit Program Planning
 
-Management **SHALL** establish and maintain an audit programme that defines:
+Management **SHALL** establish and maintain an audit program that defines:
 
-- Audit programme objectives
+- Audit program objectives
 - Audit scope and priorities based on risk
 - Types of audits to be conducted (system audits, study audits)
 - Audit frequency
 - Resources required
-- Responsibilities for audit programme management
+- Responsibilities for audit program management
 
 Audit priorities **SHOULD** consider:
 
@@ -180,16 +180,16 @@ Audit priorities **SHOULD** consider:
 - Significance of processes to subject safety and data integrity
 - Feedback from management review
 
-The audit programme **SHALL** be reviewed periodically and updated as needed to
+The audit program **SHALL** be reviewed periodically and updated as needed to
 ensure continued relevance and effectiveness.
 
-### 5.3 Audit Programme Records
+### 5.3 Audit Program Records
 
-The following audit programme records **SHALL** be maintained:
+The following audit program records **SHALL** be maintained:
 
-- Audit programme plan (including schedule)
-- Audit programme status and progress
-- Records of audit programme reviews and updates
+- Audit program plan (including schedule)
+- Audit program status and progress
+- Records of audit program reviews and updates
 
 ## 6.0 CONDUCTING AUDITS
 
@@ -265,7 +265,7 @@ The auditee **SHALL** respond to audit findings with:
 - Implementation timeline
 - Responsible person(s)
 
-The auditor or audit programme manager **SHALL** verify that corrective actions
+The auditor or audit program manager **SHALL** verify that corrective actions
 are implemented and effective.
 
 Audit findings that constitute nonconformances (per SOP-010 Section 4.2)
@@ -330,14 +330,14 @@ The following records **SHALL** be maintained:
 
 | Record | Location | Retention |
 |--------|----------|-----------|
-| Audit programme plan and schedule | QMS files | Per SOP-002 |
+| Audit program plan and schedule | QMS files | Per SOP-002 |
 | Audit plans | QMS files or TMF | Per SOP-002 |
 | Audit checklists and working documents | QMS files or TMF | Per SOP-002 |
 | Audit reports | QMS files or TMF | Per SOP-002 |
 | Audit certificates (if issued) | TMF | Per SOP-002 |
 | Audit finding responses and corrective actions | QMS files or TMF | Per SOP-002 |
 | Auditor qualification and training records | QMS files | Per SOP-002 |
-| Audit programme review records | QMS files | Per SOP-002 |
+| Audit program review records | QMS files | Per SOP-002 |
 
 System audit records **SHALL** be maintained in QMS files.
 

@@ -876,7 +876,7 @@ studies subject to the constraints in Section A.3.
 
 - **Management Representative.** Coordinates the QMS as
   defined in Section 5.3.2. Owns the Quality Manual, the
-  internal audit programme, the institute training file
+  internal audit program, the institute training file
   (SOP-016), and the coordination of responses to
   data-recipient inquiries.
 
