@@ -46,7 +46,7 @@ This procedure ensures that:
 This procedure applies to internal audits of __NewInstitute__ quality
 management system processes and *observational studies*.
 
-Internal audits include audits of QMS processes (system audits) and audits of
+Internal audits include audits of QMS processes (QMS audits) and audits of
 individual study conduct (study audits). The audit program determines audit
 frequency and priorities based on risk and management objectives.
 
@@ -166,7 +166,7 @@ Management **SHALL** establish and maintain an audit program that defines:
 
 - Audit program objectives
 - Audit scope and priorities based on risk
-- Types of audits to be conducted (system audits, study audits)
+- Types of audits to be conducted (QMS audits, study audits)
 - Audit frequency
 - Resources required
 - Responsibilities for audit program management
@@ -339,6 +339,6 @@ The following records **SHALL** be maintained:
 | Auditor qualification and training records | QMS files | Per SOP-002 |
 | Audit program review records | QMS files | Per SOP-002 |
 
-System audit records **SHALL** be maintained in QMS files.
+QMS audit records **SHALL** be maintained in QMS files.
 
 Study-specific audit records **SHALL** be maintained in the TMF.
