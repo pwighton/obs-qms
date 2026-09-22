@@ -374,12 +374,15 @@ The purpose of each level of documentation is as follows:
 
 ### 5.1 Management Commitment
 
-__NewInstitute__'s Executive Management is committed to implementing an
+__NewInstitute__'s Executive Management is committed to fully realizing an
 effective QMS that addresses all relevant aspects of observational study
-design, conduct, reporting and support. This commitment is demonstrated through
-the establishment of the QMS and the Quality Policy (shown below) and is
-supported by providing the necessary resources, equipment and appropriately
-trained staff.
+design, conduct, reporting and support, to ensuring it is understood and
+followed throughout __NewInstitute__, and to continually improving it. This
+commitment is demonstrated through the establishment of the QMS and the
+Quality Policy (shown below) and is supported by providing the necessary
+resources, processes and equipment, and by offering appropriate training and
+relevant goals and objectives to everyone involved, including management,
+staff, students, and partners.
 
 ### 5.2 Quality Policy
 
