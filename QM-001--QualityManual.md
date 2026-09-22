@@ -393,7 +393,7 @@ __NewInstitute__'s quality policy is as follows:
     better understand the nature of various diseases, human health and
     longevity.  Data is collected, stored, transmitted, analyzed and
     distributed ethically and in accordance with the consent of the subjects
-    and in a manner that protects their privacy.
+    and in a manner that respects their privacy choices.
 
 ### 5.3 Resources
 
