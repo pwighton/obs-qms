@@ -415,14 +415,23 @@ training as identified in the applicable Study Protocol.
 __NewInstitute__ **SHALL** appoint a Management Representative with the
 following minimum responsibilities:
 
+**Quality authority**
+
 -   Authority to prevent initiation or continuation of *observational studies*
     that do not meet quality standards or regulatory requirements until the
     deficiency or unsatisfactory condition is corrected. When a dispute occurs
-    concerning the quality of a *observational study*, the issue is brought
+    concerning the quality of an *observational study*, the issue is brought
     before Executive Management for resolution.
 
--   Promotes awareness of Good Clinical Practice (GCP) requirements,
-    subject safety, and data integrity throughout the organization.
+**Oversight and audit**
+
+-   Responsible for coordinating periodic internal audits of all study
+    activities covered by this Quality Manual. Internal Audits are described in
+    [section 8.4](QM-001--QualityManual.md#84-internal-and-external-audits)
+    below.
+
+-   Coordinates safety reporting obligations and ensures timely adverse event
+    reporting
 
 -   Responsible for coordinating __NewInstitute__'s responses to inquiries
     from data recipients (e.g., sponsors using __NewInstitute__ observational
@@ -431,14 +440,11 @@ following minimum responsibilities:
     __NewInstitute__. Supporting activities (record retrieval and provision
     of certified copies) are exercised through SOP-007.
 
--   Responsible for coordinating periodic internal audits of all study
-    activities covered by this Quality Manual. Internal Audits are described in
-    [section 8.4](QM-001--QualityManual.md#84-internal-and-external-audits)
-    below.
+**Documentation and records**
 
 -   Maintains this Quality Manual and distributes controlled copies of
     the Quality Manual.
-    
+
 -   Proposes changes to the Quality Manual that are discussed and
     reviewed with staff. Executive Management reviews these changes.
 
@@ -447,8 +453,10 @@ following minimum responsibilities:
 
 -   Oversees the Trial Master File (TMF) completeness and quality
 
--   Coordinates safety reporting obligations and ensures timely adverse event
-    reporting
+**Training and awareness**
+
+-   Promotes awareness of Good Clinical Practice (GCP) requirements,
+    subject safety, and data integrity throughout the organization.
 
 -   Maintains oversight of investigator qualifications and training compliance
 
