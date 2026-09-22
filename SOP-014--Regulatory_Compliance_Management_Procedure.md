@@ -75,10 +75,10 @@ Regulatory documents are controlled under
 [SOP-002: Document and Records Controls Procedure](SOP-002--Document_and_Records_Controls_Procedure.md)
 and maintained in the TMF.
 
-__NewInstitute__ observational studies are not conducted under an
+*Observational studies* conducted under this QMS are not conducted under an
 Investigational New Drug (IND) application; therefore, FDA communications and
-reporting requirements under 21 CFR Part 312 do not apply. If this changes, this
-procedure will be revised to address FDA submission and communication
+reporting requirements under 21 CFR Part 312 do not apply. If this changes,
+this procedure will be revised to address FDA submission and communication
 requirements.
 
 __NewInstitute__ is not currently subject to regulatory inspections. If this

@@ -62,22 +62,26 @@ This QMS adopts the definition of *Clinical Investigation* used in
     and Drug Administration as part of an application for a research or
     marketing permit
 
-Although __NewInstitute__ conducts *observational studies* rather than
-interventional *clinical investigations*, study results are intended to support
-future regulatory submissions (e.g., as real-world evidence, natural history
-data, or control arm comparators). Therefore, this QMS applies requirements
-appropriate for data intended for regulatory use, including 21 CFR Part 54
-(Financial Disclosure by Clinical Investigators) and documentation standards
-consistent with ICH E6(R2).
+Although this QMS governs the conduct of *observational studies* rather than
+interventional *clinical investigations*, study results are intended to
+support future regulatory submissions (e.g., as real-world evidence, natural
+history data, or control arm comparators). Therefore, this QMS applies
+requirements appropriate for data intended for regulatory use, including
+21 CFR Part 54 (Financial Disclosure by Clinical Investigators) and
+documentation standards consistent with ICH E6(R2).
 
 ## 2.0 SCOPE
 
 This Quality Manual defines policies and procedures related to the design and
-conduct of *observational studies*.
+conduct of *observational studies* designated as conducted under this QMS.
+Other research conducted by __NewInstitute__, including *clinical
+investigations* and *observational studies* not so designated, is governed by
+whatever policies and procedures __NewInstitute__ applies to it and is outside
+the scope of this Quality Manual and its SOPs.
 
 All __NewInstitute__ employees and subcontractors are required to adhere to the
 policies and procedures outlined in this Quality Manual when designing and
-conducting *observational studies*.
+conducting *observational studies* designated as conducted under this QMS.
 
 Designation of a study as conducted under this QMS **SHALL** be made by
 Executive Management before study initiation and **SHALL** be recorded in the
@@ -88,19 +92,19 @@ designated, a study **SHALL** remain under this QMS until it is closed out per
 data __NewInstitute__ no longer intends for regulatory use **SHALL** be
 terminated and closed out under this QMS rather than continued outside it.
 
-__NewInstitute__ does not perform *clinical investigations* of drugs, biologics,
-or pharmaceutical products.  Therefore, the following standards and guidance
-documents are not considered by this QMS
+*Clinical investigations* of drugs, biologics, or pharmaceutical products are
+outside the scope of this QMS.  Therefore, the following standards and
+guidance documents are not considered by this QMS
 
 -   ICH E3: Structure and Content of Clinical Study Reports
 -   ICH E2A: Clinical Safety Data Management: Definitions and Standards for
     Expedited Reporting
 -   FDA Guidance on Data Integrity and Compliance (2018)
 
-Furthermore, __NewInstitute__ does not perform *clinical investigations* to
-assess the performance, effectiveness, and/or safety of medical devices.
-Therefore the following standards and guidance documents are not considered by
-this QMS
+Furthermore, *clinical investigations* to assess the performance,
+effectiveness, and/or safety of medical devices are outside the scope of this
+QMS.  Therefore the following standards and guidance documents are not
+considered by this QMS
 
 -   ISO-14155: Clinical investigation of medical devices for human subjects
 
