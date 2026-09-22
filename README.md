@@ -3,7 +3,9 @@
 Boilerplate Quality Management System for an institution conducting
 *observational studies* whose data are intended to be easily integrated
 into future regulatory submissions by other entities (e.g., as real-world
-evidence, natural history data, or control-arm comparators).
+evidence, natural history data, or control-arm comparators). The QMS applies
+only to studies the institution designates as conducted under it (QM-001
+Section 2.0); other research the institution conducts is out of scope.
 
 The QMS consists of a Quality Manual and sixteen SOPs implementing applicable
 parts of:

@@ -38,8 +38,14 @@ This QMS complies with applicable sections of ISO-9001:2015, ISO-19011:2018,
 ICH Q9(R1), GAMP 5, and applicable Clinical Trials Guidance Documents
 published by the FDA.
 
-*Observational studies* conducted by __NewInstitute__ are conducted in
-accordance with this QMS and in a manner consistent with best practices.
+This QMS applies to those *observational studies* that __NewInstitute__
+designates as conducted under this QMS. __NewInstitute__ **MAY** also conduct
+research that is not designated as conducted under this QMS (for example,
+exploratory or investigator-initiated academic studies); such research is
+outside the scope of this QMS, and its data **SHALL NOT** be represented to
+data recipients as having been collected under this QMS. Unless otherwise
+stated, the term *observational study* in this QMS and its SOPs refers only
+to studies designated as conducted under this QMS.
 
 An *observational study* is defined as an investigation to observe, measure
 and analyze groups or individuals without administering an intervention.
@@ -72,6 +78,15 @@ conduct of *observational studies*.
 All __NewInstitute__ employees and subcontractors are required to adhere to the
 policies and procedures outlined in this Quality Manual when designing and
 conducting *observational studies*.
+
+Designation of a study as conducted under this QMS **SHALL** be made by
+Executive Management before study initiation and **SHALL** be recorded in the
+study's Final Design Approval per
+[SOP-001](SOP-001--Design_Controls_Procedure.md) Section 5.8. Once
+designated, a study **SHALL** remain under this QMS until it is closed out per
+[SOP-007](SOP-007--Study_Closeout_and_Archiving_Procedure.md). A study whose
+data __NewInstitute__ no longer intends for regulatory use **SHALL** be
+terminated and closed out under this QMS rather than continued outside it.
 
 __NewInstitute__ does not perform *clinical investigations* of drugs, biologics,
 or pharmaceutical products.  Therefore, the following standards and guidance
@@ -260,7 +275,8 @@ this QMS
 ### 4.1 General Requirements
 
 This QMS applies to *observational studies* designed and conducted by
-__NewInstitute__. All __NewInstitute__ employees and subcontractors who are
+__NewInstitute__ and designated as conducted under this QMS per Section 2.0.
+All __NewInstitute__ employees and subcontractors who are
 involved in the design and conduct of *observational studies* are responsible
 for understanding and complying with applicable provisions of this Quality
 Manual (QM) and the __NewInstitute__ QMS. __NewInstitute__ Executive Management

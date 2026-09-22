@@ -1636,6 +1636,8 @@ include:
   - Confirmation that all design, verification, and validation activities are
     complete
   - Confirmation that all regulatory and ethics approvals are obtained
+  - Executive Management's designation of the study as conducted under this
+    QMS per QM-001 Section 2.0
   - Authorization to proceed with study initiation
   - Signatures of approving authorities
 
@@ -1677,6 +1679,8 @@ study initiation. This Final Design Approval review **SHALL** confirm:
 
 - All design, verification, and validation activities are complete
 - All design review action items have been closed
+- Executive Management has designated the study as conducted under this QMS
+  per QM-001 Section 2.0
 - IRB/IEC approval is obtained and current
 - Regulatory approvals are obtained (if required)
 - All agreements are executed
