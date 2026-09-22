@@ -608,6 +608,11 @@ These activities, at a minimum, **SHALL** include:
 
 ### 7.1 Design Controls
 
+Design controls are how a study goes from an idea to an approved protocol
+ready to enroll subjects. They take the design through defined phases
+so that the scientific objectives, the data needed to meet them, and the
+protections for subjects are determined and documented before the study starts.
+
 __NewInstitute__ **SHALL** establish and maintain a Design Control procedure
 that minimally addresses applicable requirements in ISO-9001:2015, ICH E6(R2),
 ICH E8(R1), ICH E9, ICH E9(R1) and applicable regulatory guidance documents. All
@@ -615,6 +620,11 @@ ICH E8(R1), ICH E9, ICH E9(R1) and applicable regulatory guidance documents. All
 accordance with the Design Controls Procedure, SOP-001.
 
 ### 7.2 Document and Records Controls
+
+Document and records controls are how __NewInstitute__ knows which version of
+a procedure or study document is current, who approved it, and where the
+evidence of what was done is kept. They make it possible, years later, to
+show a data recipient exactly how the data were collected.
 
 __NewInstitute__ **SHALL** establish and maintain a Document and Records Control
 procedure that minimally addresses the document and record control requirements
@@ -631,6 +641,11 @@ study plans **SHALL** be maintained in the TMF.
 
 ### 7.3 Risk Management and Quality Risk Management
 
+Risk management is the practice of asking, before and during a study, what
+could compromise subject safety, data quality, or the study's conclusions,
+and deciding what to do about it. It focuses effort on the things that matter
+most instead of applying the same level of control everywhere.
+
 __NewInstitute__ **SHALL** establish and maintain a Risk Management and Quality
 Risk Management procedure that minimally addresses applicable requirements in
 ISO-9001:2015 Section 6.1, ICH E6(R2) Section 5.0, ICH E8(R1) Section 3.2,
@@ -641,6 +656,12 @@ performed and documented in accordance with the Risk Management and Quality
 Risk Management Procedure, SOP-003.
 
 ### 7.4 Computer System Validation, Data Integrity and Data Management
+
+Computer system validation is how __NewInstitute__ establishes that the
+software and systems used to collect, store, and process study data do what
+they are supposed to do. Data integrity and data management cover how the
+data themselves are kept complete, accurate, and attributable from collection
+through analysis, so that the data can be trusted by others.
 
 __NewInstitute__ **SHALL** establish and maintain a Computer System Validation,
 Data Integrity and Data Management procedure that minimally addresses
@@ -664,6 +685,12 @@ SOP-004
 
 ### 7.5 Study Design Reviews
 
+Study design reviews are the decision gates in the design process.  They are
+formal points at which the people responsible for the study look at what has
+been designed so far, confirm it meets scientific, ethical, and quality
+requirements, and decide whether to proceed. They are how design problems are
+caught while they are still cheap to fix.
+
 __NewInstitute__ **SHALL** establish and maintain a Study Design Review
 procedure that minimally addresses applicable requirements in ISO-9001:2015
 Section 8.3, ICH E6(R2) Sections 5.0, 5.1 and 6.0, ICH E8(R1) Section 5, and
@@ -674,6 +701,12 @@ performed and documented in accordance with the Study Design Review Procedure,
 SOP-005.
 
 ### 7.6 Outsourced Activities
+
+Outsourced activities are tasks performed by organizations outside of
+__NewInstitute__, such as laboratories or contract research organizations.
+The work is delegated but the responsibility is not, so this procedure covers
+how such organizations are selected, what is agreed in writing, and how their
+work is overseen.
 
 __NewInstitute__ **SHALL** establish and maintain an Outsourced Activities
 procedure that minimally addresses applicable requirements in ISO-9001:2015
@@ -689,6 +722,12 @@ Outsourced activities related to *observational studies* **SHALL** be performed
 and documented in accordance with the Outsourced Activities Procedure, SOP-006
 
 ### 7.7 Study Closeout and Archiving
+
+Closeout and archiving is how a study ends in an orderly way.  It confirms that
+all activities are complete, that the Trial Master File contains everything
+it should, and that records are retained and retrievable for as long as a
+data recipient might need them. Data are only useful in a regulatory
+submission if the records behind them can still be produced.
 
 __NewInstitute__ **SHALL** establish and maintain a Study Closeout and Archiving
 procedure that minimally addresses applicable requirements in ICH E6(R2)
@@ -716,6 +755,11 @@ and Archiving Procedure, SOP-007.
 
 ### 7.8 Subject Safety and Adverse Event Management
 
+Subject safety and adverse event management is how __NewInstitute__ notices,
+records, assesses, and reports harm or potential harm to study subjects. Even
+though *observational studies* do not administer interventions, subjects can
+still experience events that the study must recognize and respond to.
+
 __NewInstitute__ **SHALL** establish and maintain a Subject Safety and Adverse
 Event Management procedure that minimally addresses applicable requirements in
 ICH E6(R2) Sections 4.11 and 5.17, ICH E8(R1) Section 6.2 and the following:
@@ -731,6 +775,12 @@ and documented in accordance with the Subject Safety and Adverse Event
 Management Procedure, SOP-008.
 
 ### 7.9 Software Development and Validation
+
+Where __NewInstitute__ writes its own software to collect, process, or
+analyze subject data, this procedure governs how that software is specified,
+built, tested, and released. It applies the same expectations of
+traceability and fitness for purpose to in-house software that Section 7.4
+applies to purchased systems.
 
 __NewInstitute__ **SHALL** establish and maintain an Observational Study
 Software Development and Validation procedure that minimally addresses
@@ -778,6 +828,11 @@ These activities, at a minimum, **SHALL** include:
 
 ### 8.1 Monitoring and Oversight
 
+Monitoring is how __NewInstitute__ checks, while a study is running, that it
+is being conducted according to the protocol and this QMS and that the data
+being collected are accurate. It is the main way problems are detected early
+enough to be corrected.
+
 __NewInstitute__ **SHALL** establish and maintain a Monitoring and Oversight
 procedure that minimally addresses applicable requirements in ISO-9001:2015
 Section 9.1, ICH E6(R2) Section 5.18, ICH E8(R1) Sections 6.2.1 and 6.2.3 and
@@ -788,6 +843,12 @@ All monitoring and oversight activities related to *observational studies*
 Oversight Procedure, SOP-009.
 
 ### 8.2 Control of Nonconforming Observational Study Activities
+
+A nonconformance is anything done in a study that departs from the protocol,
+an approved procedure, or a regulatory requirement. This procedure is how such
+departures are recorded, their effect on subjects and data assessed, and a
+decision made about what to do with the affected activity or data, so that
+problems are dealt with openly rather than lost.
 
 __NewInstitute__ **SHALL** establish and maintain a Control of Nonconforming
 Activities procedure that provides for identification, review, and disposition
@@ -805,6 +866,12 @@ Observational Study Activities Procedure, SOP-010.
 
 ### 8.3 Corrective and Preventive Action (CAPA)
 
+Corrective and preventive action is the process for fixing the underlying
+cause of a problem, not just its symptoms. Corrective actions address
+something that has already gone wrong so it does not recur; preventive
+actions address something that analysis suggests could go wrong before it
+does. It is the QMS's main mechanism for improvement over time.
+
 __NewInstitute__ **SHALL** establish and maintain a CAPA process that minimally
 requires corrective action be taken to prevent recurrence of a nonconformance
 that has already occurred. The CAPA process **SHALL** also require that
@@ -820,10 +887,14 @@ SOP-011.
 
 ### 8.4 Internal and External Audits
 
-Audits are a critical tool for improving the QMS and for ensuring the quality,
-safety, and reliability of *observational studies* conducted within the QMS.
-__NewInstitute__ is committed to performing and participating in internal and
-external audits.
+Audits are independent, planned examinations of whether the QMS and the
+studies run under it are actually being followed as written. Internal audits
+are conducted by __NewInstitute__ on itself; external audits are conducted on
+__NewInstitute__ by data recipients or others who need assurance about its
+data. They are a critical tool for improving the QMS and for ensuring the
+quality, safety, and reliability of *observational studies* conducted within
+the QMS. __NewInstitute__ is committed to performing and participating in
+internal and external audits.
 
 Activities related to planning, conducting, and documenting internal and
 external audits of *observational studies* **SHALL** be performed and
@@ -832,6 +903,11 @@ SOP-012 and address applicable requirements in ISO-9001:2015 Section 9.2,
 ICH E6(R2) Section 5.19, and ISO-19011:2018.
 
 ### 8.5 Change Control
+
+Change control is how changes to a running study, to the QMS, or to
+validated systems are proposed, evaluated for their effect, approved, and
+recorded, so that a change made in one place does not silently invalidate
+something else.
 
 __NewInstitute__ **SHALL** establish and maintain change control for changes
 to *observational study* systems, processes, and procedures that minimally
@@ -848,6 +924,11 @@ to *observational studies* **SHALL** be performed and documented in
 accordance with the applicable procedure.
 
 ### 8.6 Regulatory Compliance Management
+
+Regulatory compliance management is how __NewInstitute__ keeps track of the
+regulatory obligations that apply to its studies, notably ethics committee
+approval and financial disclosure by investigators, and how it maintains the
+evidence of compliance that data recipients will ask for.
 
 __NewInstitute__ **SHALL** establish and maintain a Regulatory Compliance
 Management procedure that minimally addresses requirements for maintaining
