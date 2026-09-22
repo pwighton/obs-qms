@@ -532,7 +532,8 @@ decisions and actions related to:
 -   Conclusions on the continued suitability and currency of QMS documents
 
 Each output **SHALL** identify the responsible person and due date, and
-**SHALL** be recorded in the meeting minutes.
+**SHALL** be recorded in the meeting minutes and **SHALL** be tracked to
+completion.
 
 The Management Representative or designee **SHALL** maintain meeting minutes of
 each Management Review. Meeting minutes of management reviews are filed
