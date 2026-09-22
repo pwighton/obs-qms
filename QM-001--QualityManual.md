@@ -470,7 +470,7 @@ assesses the continuing QMS suitability, adequacy and effectiveness,
 identifying opportunities for improvement and needed changes.
 
 The Management Review is a meeting of Executive Management, prepared and
-facilitated by the Management Representative. It is not an audit: the
+facilitated by the Management Representative. It is not an audit; the
 examination of study activities in depth is provided by internal audits per
 SOP-012, whose results are an input to this review. The review's inputs are
 the summaries and records already produced under the SOPs during the year, so
