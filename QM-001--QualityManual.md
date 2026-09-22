@@ -586,11 +586,9 @@ with the Training and Competency Management Procedure, SOP-016.
 
 #### 6.1.2 Systems, Equipment and Infrastructure
 
-Executive Management **SHALL** be responsible for deciding which studies should
-be designed and conducted. For each of these studies, Executive Management
-**SHALL** be responsible for providing adequate systems, equipment, and
-infrastructure to support the design, conduct, reporting and support of
-*observational studies* conducted under this QMS.
+Executive Management **SHALL** be responsible for providing adequate systems,
+equipment, and infrastructure to support the design, conduct, reporting and
+support of *observational studies* conducted under this QMS.
 
 ## 7.0 STUDY REALIZATION
 
